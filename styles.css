@@ -1,0 +1,131 @@
+
+
+/***********************************/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+
+}
+
+a,
+a:active,
+a:visited {
+  color: black;
+}
+
+body {
+color: black;
+font-size: 0.833em;
+font-family: helvetica,arial,sans-serif;
+}
+
+#site-name a {
+text-indent: -9000px;
+}
+
+#slogan {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+#header {
+height: 395px;
+}
+
+.grid-wrap {
+width: 940px;
+margin: 0 auto;
+overflow: hidden;
+}
+
+#header-left {
+display: inline;
+float: left;
+margin-right: 20px;
+width: 460px;
+height: 395px;
+position: relative;
+}
+
+#header-right {
+display: inline;
+float: left;
+margin-right: 20px;
+width: 460px;
+margin-right: 0;
+position: relative;
+}
+
+.hr-rule {
+width: 900px;
+margin-left: 16px;
+margin-right: 16px;
+border-top: solid 2px #eee;
+margin-bottom: 15px;
+clear: both;
+}
+
+#main {
+background: #ccc;
+min-height: 400px;
+}
+
+#main .grid-wrap {
+padding-top: 15px;
+}
+
+#highlight ul li {
+  font-size: 16px;
+}
+
+#highlighted-left {
+display: inline;
+float: left;
+width: 370px;
+}
+
+#highlighted-center {
+display: inline;
+float: left;
+width: 370px;
+margin-right: 0;
+}
+
+#highlighted-right {
+display: inline;
+float: left;
+margin-right: 0;
+}
+
+#pre-footer {
+background-color: #eee;
+padding: 30px;
+}
+
+#footer {
+background-color: #333;
+min-height: 60px;
+color: #A2BA6E;
+font-size: 0.9em;
+}
+
+#pre-footer #pre-footer-bio {
+display: inline;
+float: left;
+margin-right: 20px;
+width: 540px;
+padding-left: 80px;
+margin-left: -40px;
+clear: both;
+border-right: solid 1px #777;
+padding-right: 23px;
+font-size: 16px;
+}
+
+#pre-footer #pre-footer-connected {
+display: inline;
+float: left;
+margin-right: 20px;
+width: 220px;
+margin-right: 0;
+padding-left: 23px;
+font-size: 16px;
+}
