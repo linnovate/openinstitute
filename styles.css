@@ -100,13 +100,6 @@ background-color: #eee;
 padding: 30px;
 }
 
-#footer {
-background-color: #333;
-min-height: 60px;
-color: #A2BA6E;
-font-size: 0.9em;
-}
-
 #pre-footer #pre-footer-bio {
 display: inline;
 float: left;
@@ -128,4 +121,25 @@ width: 220px;
 margin-right: 0;
 padding-left: 23px;
 font-size: 16px;
+}
+
+#footer {
+background-color: #333;
+min-height: 60px;
+color: #A2BA6E;
+font-size: 0.9em;
+}
+
+#footer-left {
+  float: left;
+}
+
+#footer-right {
+  float: right;
+}
+
+#footer a,
+#footer a:active,
+#footer a:visited {
+  color: white;
 }
